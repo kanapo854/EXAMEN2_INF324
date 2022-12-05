@@ -1,0 +1,47 @@
+c:\users\inf-322\documents\visual studio 2012\Projects\WindowsFormsApplication23\WindowsFormsApplication23\bin\Debug\WindowsFormsApplication23.exe
+c:\users\inf-322\documents\visual studio 2012\Projects\WindowsFormsApplication23\WindowsFormsApplication23\bin\Debug\WindowsFormsApplication23.pdb
+c:\users\inf-322\documents\visual studio 2012\Projects\WindowsFormsApplication23\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.csprojResolveAssemblyReference.cache
+c:\users\inf-322\documents\visual studio 2012\Projects\WindowsFormsApplication23\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.Form1.resources
+c:\users\inf-322\documents\visual studio 2012\Projects\WindowsFormsApplication23\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.Properties.Resources.resources
+c:\users\inf-322\documents\visual studio 2012\Projects\WindowsFormsApplication23\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.csproj.GenerateResource.Cache
+c:\users\inf-322\documents\visual studio 2012\Projects\WindowsFormsApplication23\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.exe
+c:\users\inf-322\documents\visual studio 2012\Projects\WindowsFormsApplication23\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.pdb
+C:\Users\INF-322\Documents\Visual Studio 2012\WindowsFormsApplication23\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.exe
+C:\Users\INF-322\Documents\Visual Studio 2012\WindowsFormsApplication23\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.pdb
+C:\Users\INF-322\Documents\Visual Studio 2012\WindowsFormsApplication23\WindowsFormsApplication23\bin\Debug\WindowsFormsApplication23.exe
+C:\Users\INF-322\Documents\Visual Studio 2012\WindowsFormsApplication23\WindowsFormsApplication23\bin\Debug\WindowsFormsApplication23.pdb
+C:\Users\INF-322\Documents\Visual Studio 2012\WindowsFormsApplication23\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.csprojResolveAssemblyReference.cache
+C:\Users\INF-322\Documents\Visual Studio 2012\WindowsFormsApplication23\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.Form1.resources
+C:\Users\INF-322\Documents\Visual Studio 2012\WindowsFormsApplication23\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.Properties.Resources.resources
+C:\Users\INF-322\Documents\Visual Studio 2012\WindowsFormsApplication23\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.csproj.GenerateResource.Cache
+C:\Users\AmiTh\Desktop\inf324\WindowsFormsApplication23_711\WindowsFormsApplication23\bin\Debug\WindowsFormsApplication23.exe.config
+C:\Users\AmiTh\Desktop\inf324\WindowsFormsApplication23_711\WindowsFormsApplication23\bin\Debug\WindowsFormsApplication23.exe
+C:\Users\AmiTh\Desktop\inf324\WindowsFormsApplication23_711\WindowsFormsApplication23\bin\Debug\WindowsFormsApplication23.pdb
+C:\Users\AmiTh\Desktop\inf324\WindowsFormsApplication23_711\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.csproj.AssemblyReference.cache
+C:\Users\AmiTh\Desktop\inf324\WindowsFormsApplication23_711\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.Form1.resources
+C:\Users\AmiTh\Desktop\inf324\WindowsFormsApplication23_711\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.Properties.Resources.resources
+C:\Users\AmiTh\Desktop\inf324\WindowsFormsApplication23_711\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.csproj.GenerateResource.cache
+C:\Users\AmiTh\Desktop\inf324\WindowsFormsApplication23_711\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.csproj.CoreCompileInputs.cache
+C:\Users\AmiTh\Desktop\inf324\WindowsFormsApplication23_711\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.exe
+C:\Users\AmiTh\Desktop\inf324\WindowsFormsApplication23_711\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.pdb
+C:\Users\AmiTh\Desktop\inf324\ejer3\WindowsFormsApplication23\bin\Debug\WindowsFormsApplication23.exe.config
+C:\Users\AmiTh\Desktop\inf324\ejer3\WindowsFormsApplication23\bin\Debug\WindowsFormsApplication23.exe
+C:\Users\AmiTh\Desktop\inf324\ejer3\WindowsFormsApplication23\bin\Debug\WindowsFormsApplication23.pdb
+C:\Users\AmiTh\Desktop\inf324\ejer3\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.csproj.AssemblyReference.cache
+C:\Users\AmiTh\Desktop\inf324\ejer3\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.Form1.resources
+C:\Users\AmiTh\Desktop\inf324\ejer3\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.Properties.Resources.resources
+C:\Users\AmiTh\Desktop\inf324\ejer3\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.csproj.GenerateResource.cache
+C:\Users\AmiTh\Desktop\inf324\ejer3\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.csproj.CoreCompileInputs.cache
+C:\Users\AmiTh\Desktop\inf324\ejer3\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.exe
+C:\Users\AmiTh\Desktop\inf324\ejer3\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.pdb
+C:\Users\Display\Documents\universidad\INF-324\ejer3\WindowsFormsApplication23\bin\Debug\WindowsFormsApplication23.exe.config
+C:\Users\Display\Documents\universidad\INF-324\ejer3\WindowsFormsApplication23\bin\Debug\WindowsFormsApplication23.exe
+C:\Users\Display\Documents\universidad\INF-324\ejer3\WindowsFormsApplication23\bin\Debug\WindowsFormsApplication23.pdb
+C:\Users\Display\Documents\universidad\INF-324\ejer3\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.csproj.AssemblyReference.cache
+C:\Users\Display\Documents\universidad\INF-324\ejer3\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.csproj.SuggestedBindingRedirects.cache
+C:\Users\Display\Documents\universidad\INF-324\ejer3\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.Form1.resources
+C:\Users\Display\Documents\universidad\INF-324\ejer3\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.Properties.Resources.resources
+C:\Users\Display\Documents\universidad\INF-324\ejer3\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.csproj.GenerateResource.cache
+C:\Users\Display\Documents\universidad\INF-324\ejer3\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.csproj.CoreCompileInputs.cache
+C:\Users\Display\Documents\universidad\INF-324\ejer3\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.exe
+C:\Users\Display\Documents\universidad\INF-324\ejer3\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.pdb
